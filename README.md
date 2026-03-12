@@ -31,6 +31,9 @@ Berikut Adalah Outputnya:
 ![alt text](bin/no2_oop.png)
 
 ## CMAKE
+- Ubahlah folder structure pada soal no 2 bagian OOP (kalian hanya perlu mengcopy/dupe file2 yang terdapat pada soal no2 OOP kedalam folder_cmake di folder src jawaban kalian lalu kalian atur struktur foldernya) lalu lengkapilah file [CMake](soal/soal_cmake/CMakeLists.txt) berikut pastikan ketika cmake di build akan ada .exe yang terbuild di dalam folder bin!
 
+![alt text](bin/no_cmake.png)
 
-### Pengumpulan tugas akan dikumpulkan pada Google Form ini. Anda perlu kumpulkan link github yang hanya berisi package program kalian dan link google drive yang berisi video penjelasan Anda. Kalau terdapat catatan khusus untuk program Anda, maka tuliskan pada file README di link github.
+# GOOD LUCK !!!
+<!-- ### Pengumpulan tugas akan dikumpulkan pada Google Form ini. Anda perlu kumpulkan link github yang hanya berisi package program kalian dan link google drive yang berisi video penjelasan Anda. Kalau terdapat catatan khusus untuk program Anda, maka tuliskan pada file README di link github. -->
