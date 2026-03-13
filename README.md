@@ -85,7 +85,7 @@ Berikut output yang diharapkan:
 
 ![alt text](bin/no_cmake.png)
 
-<ul>Selanjutnya, atur struktur folder tersebut dan lengkapi file [CMakeLists.txt](soal/soal_cmake/CMakeLists.txt) yang tersedia. Pastikan konfigurasi CMake dapat menghasilkan file eksekusi (.exe) di dalam folder ***bin*** setelah proses build selesai.
+Selanjutnya, atur struktur folder tersebut dan lengkapi file [CMakeLists.txt](soal/soal_cmake/CMakeLists.txt) yang tersedia. Pastikan konfigurasi CMake dapat menghasilkan file eksekusi (.exe) di dalam folder ***bin*** setelah proses build selesai.
 
 
 ---
