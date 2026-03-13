@@ -7,7 +7,7 @@
 - Silahkan klik "Use This Template" pada repo ini, lalu buatlah repository baru dengan format SEKURO_TUGAS_1_{Nama}_PROGRAMMING. Selain itu, Cakru *WAJIB* mengubah repository visibility menjadi public agar dapat dinilai. Pengumpulan repository yang private tidak akan diberikan nilai.
 - Soal-soal berikut ini dapat diakses pada folder `soal`. Untuk pengumpulan, masukkan jawaban ke folder `src`. Berikut adalah contoh format cara menyimpan jawaban:
 
-![alt text](bin/contoh_jawaban.png)
+![alt text](bin/contoh.png)
 
 ## ROS 2
 Tugas ini akan mengevaluasi semua pengetahuan Cakru mengenai materi yang kalian pelajari pada Day 1 SEKURO 18 mengenai ROS 2. Penggunaan AI diperbolehkan, tetapi kami berharap Cakru tidak menggunakan AI secara penuh dalam mengerjakan tugas ini dan memanfaatkan materi yang telah diberikan agar Cakru benar-benar memahaminya.
