@@ -81,7 +81,7 @@ Berikut output yang diharapkan:
 ![alt text](bin/no2_oop.png)
 
 ## CMAKE
-- Ubahlah folder structure pada soal nomor 2 bagian OOP (kalian hanya perlu copy file-file yang terdapat pada soal nomor 2 OOP ke dalam folder_cmake di folder src jawaban kalian lalu kalian atur struktur foldernya) lalu lengkapilah file [CMake](soal/soal_cmake/CMakeLists.txt) berikut pastikan ketika cmake di build akan ada .exe yang terbuild di dalam folder bin!
+- Modifikasilah struktur folder pada soal nomor 2 bagian OOP dengan menyalin seluruh file terkait ke dalam direktori [soal_2_oop](soal/soal_2_oop/) pada folder jawaban Anda. Selanjutnya, atur struktur folder tersebut dan lengkapi file [CMakeLists.txt](soal/soal_cmake/CMakeLists.txt) yang tersedia. Pastikan konfigurasi CMake dapat menghasilkan file eksekusi (.exe) di dalam folder ***bin*** setelah proses build selesai.
 
 ![alt text](bin/no_cmake.png)
 
